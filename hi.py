@@ -1,10 +1,4 @@
 import pandas as pd
-print('Vamsi this is ram ')
-  
-print('This is written by PM Vamsi')
-
-
-
   
 # list of strings
 lst = ['Geeks', 'For', 'Geeks', 'is', 
@@ -14,3 +8,7 @@ lst = ['Geeks', 'For', 'Geeks', 'is',
 df = pd.DataFrame(lst)
 df
 print(df)
+
+  
+print('This is written by PM Vamsi')
+
