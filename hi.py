@@ -2,7 +2,7 @@ import pandas as pd
   
 # list of strings
 lst = ['Geeks', 'For', 'Geeks', 'is', 
-            'portal', 'for', 'Geeks']
+            'portal', 'for', 'Geeks','Vamsi']
   
 # Calling DataFrame constructor on list
 df = pd.DataFrame(lst)
