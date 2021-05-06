@@ -1,2 +1,2 @@
 for i in range(10):
-  print('vamsi'+i)
+  print('vamsi'+str(i))
