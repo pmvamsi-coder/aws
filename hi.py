@@ -1,1 +1,2 @@
-print "HI World...!!1"
+for i in range(10):
+  print('vamsi'+i)
