@@ -6,7 +6,7 @@ lst = ['Geeks', 'For', 'Geeks', 'is',
   
 # Calling DataFrame constructor on list
 df = pd.DataFrame(lst)
-df
+df.show()
 print(df)
 
 print('Copyright 😊😂')
